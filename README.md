@@ -1,2 +1,2 @@
-# Battleships-CSHARP
- Simple one sides battleships game
+# Battleships
+ Simple one sided game of battleships
